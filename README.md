@@ -83,5 +83,3 @@ y_pred = model.predict(X_test_scaled)
 print(classification_report(y_test, y_pred))
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
-### Results
-The results of the model evaluation, including the accuracy, precision, recall, and F1-score, are presented to assess the model's performance in detecting fraudulent transactions.
