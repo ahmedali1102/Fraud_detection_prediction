@@ -5,10 +5,15 @@ This project aims to detect fraudulent transactions using machine learning techn
 
 ## Table of Contents
 -Dataset
+
 -Exploratory Data Analysis
+
 -Data Preprocessing
+
 -Model Training
+
 -Model Evaluation
+
 -Results
 
 #### Installation
@@ -16,19 +21,28 @@ This project aims to detect fraudulent transactions using machine learning techn
 To run this project, you need to have Python installed along with the following libraries:
 
 -numpy
+
 -pandas
+
 -seaborn
+
 -matplotlib
+
 -scikit-learn
 
 ## About Dataset
 The dataset used in this project is payment_fraud.csv. It contains the following columns:
 
 accountAgeDays: Age of the account in days
+
 numItems: Number of items purchased
+
 localTime: Local time of the transaction
+
 paymentMethod: Method of payment (e.g., PayPal, credit card)
+
 paymentMethodAgeDays: Age of the payment method in days
+
 label: Class label (0 for non-fraudulent, 1 for fraudulent)
 
 ## Exploratory Data Analysis
