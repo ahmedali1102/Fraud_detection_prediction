@@ -4,6 +4,8 @@
 This project aims to detect fraudulent transactions using machine learning techniques. The dataset used contains various features related to payment transactions, and the objective is to build a model that can accurately classify transactions as fraudulent or not.
 
 ## Table of Contents
+ -Installation
+ 
 -Dataset
 
 -Exploratory Data Analysis
@@ -16,7 +18,7 @@ This project aims to detect fraudulent transactions using machine learning techn
 
 -Results
 
-#### Installation
+## Installation
 
 To run this project, you need to have Python installed along with the following libraries:
 
