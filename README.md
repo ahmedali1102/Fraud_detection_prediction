@@ -100,3 +100,8 @@ y_pred = model.predict(X_test_scaled)
 print(classification_report(y_test, y_pred))
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
+
+
+here's the link  of the code explanation
+https://1drv.ms/v/c/46e17f20539c6739/ESdBF-UceiJGjUIGK4APB_gBrXF50Lc3AGmnJ7zmOsa2gA?e=HvWcbD
+
